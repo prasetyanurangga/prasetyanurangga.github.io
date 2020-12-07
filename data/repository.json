@@ -9,7 +9,7 @@
 			"value" : "100"
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/panda.png",
-		"photo" : ["hhh","fff"]
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/panda_thumbnail.png"
 	},
 	{
 		"name_git" : "Instastory",
@@ -21,7 +21,7 @@
 			"value" : "100"
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/instastory.png",
-		"photo" : ["hhh","fff"]
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/instasory_thumbnail.png"
 	},
 	{
 		"name_git" : "todo",
@@ -33,7 +33,7 @@
 			"value" : "100"
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/todo.png",
-		"photo" : ["hhh","fff"]
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/todo_thumbnail.png"
 	},
 	{
 		"name_git" : "kudos",
@@ -45,7 +45,7 @@
 			"value" : "100"
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/kudos.png",
-		"photo" : ["hhh","fff"]
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/kudos_thumbnail.png"
 	},
 	{
 		"name_git" : "KertasPutih",
@@ -57,7 +57,7 @@
 			"value" : "100"
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/none.png",
-		"photo" : ["hhh","fff"]
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/none.png"
 	}
 
 ]

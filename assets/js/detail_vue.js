@@ -30,6 +30,12 @@ var detail = new Vue({
           local_repos = repos;
         }
       });
+      var str = first_response.data.updated_at;
+      var date = moment(str);
+      var dateComponent = date.utc().format('YYYY-MM-DD HH:mm:ss');
+      console.log(dateComponent);
+      first_response.data['updated_at'] = dateComponent;
+      console.log(first_response.data.updated_at);
       this.local_repos = local_repos;
       this.repos= first_response.data;
       this.user =  second_response.data;

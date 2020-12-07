@@ -46,18 +46,5 @@
 		}],
 		"main_photo" : "https://raw.githubusercontent.com/prasetyanurangga/kudos/master/kudos_app_ui.png",
 		"photo" : ["hhh","fff"]
-	},
-	{
-		"name_git" : "KertasPutih",
-		"name" : "Kertas Putih",
-		"type" : "Mobile",
-		"language" : [{
-			"name" : "Kotlin",
-			"color" : "#F18E33",
-			"value" : "100"
-		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/img_1.jpg",
-		"photo" : ["hhh","fff"]
 	}
-
 ]

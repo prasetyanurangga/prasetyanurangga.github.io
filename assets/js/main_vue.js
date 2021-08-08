@@ -16,10 +16,8 @@ var main = new Vue({
     .then(axios.spread((first_response, second_response) => {
           this.info= first_response.data;
           this.user =  second_response.data
+          this.callIsotope();
     }))
-  },
-  updated(){
-    this.callIsotope();
   },
   methods:{
     request_1() {

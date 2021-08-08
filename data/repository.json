@@ -58,6 +58,18 @@
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/none.png",
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/none.png"
+	},
+	{
+		"name_git" : "quran_go",
+		"name" : "Rest API Al Quran",
+		"type" : "Web",
+		"language" : [{
+			"name" : "Go",
+			"color" : "#00add8",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png"
 	}
 
 ]

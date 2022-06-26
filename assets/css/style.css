@@ -507,10 +507,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 a.go-down-arrow {
   cursor: pointer;
-    background: url('../img/download.svg') no-repeat;
     background-color: transparent;
-    width: 50px;
-    height: 45px;
     background-size: 100%;
     position: absolute;
     left: 50%;

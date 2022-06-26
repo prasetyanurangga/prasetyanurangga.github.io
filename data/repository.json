@@ -1,6 +1,6 @@
 [
 	{
-		"name_git" : "Panda",
+		"name_git" : "panda",
 		"name" : "Panda",
 		"type" : "Mobile",
 		"language" : [{
@@ -12,52 +12,40 @@
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/panda_thumbnail.png"
 	},
 	{
-		"name_git" : "Instastory",
-		"name" : "InstaStory",
+		"name_git" : "hava",
+		"name" : "Hava",
 		"type" : "Mobile",
 		"language" : [{
 			"name" : "Dart",
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/instastory.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/instastory_thumbnail.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/hava.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/hava_thumbnail.png"
 	},
 	{
-		"name_git" : "todo",
-		"name" : "ToDo",
+		"name_git" : "qtz",
+		"name" : "QTZ",
 		"type" : "Mobile",
 		"language" : [{
 			"name" : "Dart",
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/todo.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/todo_thumbnail.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/qtz.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_thumbnail.png"
 	},
 	{
-		"name_git" : "kudos",
-		"name" : "Kudos",
-		"type" : "Mobile",
+		"name_git" : "wordseeker",
+		"name" : "WordSeeker",
+		"type" : "Web",
 		"language" : [{
 			"name" : "Dart",
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/kudos.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/kudos_thumbnail.png"
-	},
-	{
-		"name_git" : "KertasPutih",
-		"name" : "Kertas Putih",
-		"type" : "Mobile",
-		"language" : [{
-			"name" : "Kotlin",
-			"color" : "#F18E33",
-			"value" : "100"
-		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/none.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/none.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_landing.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_landing.png"
 	},
 	{
 		"name_git" : "quran_go",

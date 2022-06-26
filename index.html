@@ -147,7 +147,7 @@
           <div id="portfolio-profesional-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
             
             <div class="item col-sm-6 col-md-4 col-lg-4 mb-4" v-for="repos in portfolio" :class="repos.type" >
-             <a v-bind:href="'detail-project.html?name='+ repos.name" class="item-wrap fancybox">
+             <a v-bind:href="'detail-project.html?name='+ repos.name+'&type='+ repos.type" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>{{ repos.name }}</h3>
                   <span>{{ repos.client }}</span>

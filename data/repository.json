@@ -20,8 +20,8 @@
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/hava.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/hava_thumbnail.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/hava_app_ui.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/hava_app_ui.png"
 	},
 	{
 		"name_git" : "qtz",
@@ -32,8 +32,8 @@
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/qtz.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_thumbnail.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_app_ui.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_app_ui.png"
 	},
 	{
 		"name_git" : "wordseeker",
@@ -44,8 +44,8 @@
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_landing.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_landing.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_puzzle.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_puzzle.png"
 	},
 	{
 		"name_git" : "quran_go",

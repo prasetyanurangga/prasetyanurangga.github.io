@@ -21,8 +21,9 @@
 			"value" : "20"
 		}],
 		"link" : "sikebal.com",
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/sikebal.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/sikebal.png"
+		"photo" : [
+			"https://prasetyanurangga.github.io/assets/img/sikebal.png"
+		]
 	}
 
 ]

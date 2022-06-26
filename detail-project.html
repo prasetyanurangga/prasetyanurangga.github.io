@@ -90,7 +90,12 @@
         <div class="container">
           <div class="row align-items-stretch">
             <div class="col-md-8" data-aos="fade-up">
-              <img v-bind:src="local_repos.main_photo" alt="Image" class="img-fluid">
+              <div v-if="local_repos.type == 'portfolio'">
+                <img v-bind:src="local_repos.photo[0]" alt="Image" class="img-fluid">
+              </div>
+              <div v-else>
+                <img v-bind:src="local_repos.main_photo" alt="Image" class="img-fluid">
+              </div>
             </div>
             <div class="col-md-3 ml-auto" data-aos="fade-up" data-aos-delay="100">
               <div class="sticky-content">

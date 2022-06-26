@@ -48,6 +48,18 @@
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_app_ui.png"
 	},
 	{
+		"name_git" : "quran_go",
+		"name" : "Rest API Al Quran",
+		"type" : "Web",
+		"language" : [{
+			"name" : "Go",
+			"color" : "#00add8",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png"
+	},
+	{
 		"name_git" : "wordseeker",
 		"name" : "WordSeeker",
 		"type" : "Web",
@@ -82,18 +94,6 @@
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png",
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png"
-	},
-	{
-		"name_git" : "quran_go",
-		"name" : "Rest API Al Quran",
-		"type" : "Web",
-		"language" : [{
-			"name" : "Go",
-			"color" : "#00add8",
-			"value" : "100"
-		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/golang.png"
 	}
 
 ]

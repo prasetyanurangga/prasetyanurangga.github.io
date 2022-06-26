@@ -91,7 +91,7 @@
           <div class="row align-items-stretch">
             <div class="col-md-8" data-aos="fade-up">
               <div v-if="local_repos.type == 'portfolio'">
-                <img v-bind:src="local_repos.photo[0]" alt="Image" class="img-fluid">
+                <img v-for="image in local_repos.photo" v-bind:src="image" alt="Image" class="img-fluid mb-4">
               </div>
               <div v-else>
                 <img v-bind:src="local_repos.main_photo" alt="Image" class="img-fluid">

@@ -26,7 +26,7 @@ var detail = new Vue({
 
       parameters = this.$route.query.name
       type = this.$route.query.type
-      if(type == "portofolio"){
+      if(type == "portfolio"){
         first_response.data.forEach(function(repos) {
           console.log(repos);
           if(repos.name == parameters){

@@ -135,7 +135,7 @@
                 </li>
                 <li class="mb-3">
                   <strong class="d-block mb-1">Phone</strong>
-                  <span>{{ user.phone }}</span>
+                  <a v-bind:href="'https://api.whatsapp.com/send?phone='+user.phone">{{ user.phone }}</a>
                 </li>
                 <li class="mb-3">
                   <strong class="d-block mb-1">Email</strong>

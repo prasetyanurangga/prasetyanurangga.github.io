@@ -60,6 +60,30 @@
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/wordseeker_ui_puzzle.png"
 	},
 	{
+		"name_git" : "snaptify",
+		"name" : "Snaptify",
+		"type" : "Web",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/snaptify.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/snaptify.png"
+	},
+	{
+		"name_git" : "flagly",
+		"name" : "Flagly",
+		"type" : "Web",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png"
+	},
+	{
 		"name_git" : "quran_go",
 		"name" : "Rest API Al Quran",
 		"type" : "Web",

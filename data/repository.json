@@ -56,8 +56,20 @@
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_app_ui.png",
-		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/qtz_app_ui.png"
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/ipod.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/ipod.png"
+	},
+	{
+		"name_git" : "minerva",
+		"name" : "Minerva",
+		"type" : "Mobile",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/minerva_app_ui.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/minerva_app_ui.png"
 	},
 	{
 		"name_git" : "quran_go",

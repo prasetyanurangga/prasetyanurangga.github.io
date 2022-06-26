@@ -8,8 +8,20 @@
 			"color" : "#F18E33",
 			"value" : "100"
 		}],
-		"main_photo" : "https://prasetyanurangga.github.io/assets/img/panda.png",
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/panda_thumbnail.png",
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/panda_thumbnail.png"
+	},
+	{
+		"name_git" : "todo",
+		"name" : "Todo",
+		"type" : "Mobile",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/todo_thumbnail.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/todo_thumbnail.png"
 	},
 	{
 		"name_git" : "hava",

@@ -2,7 +2,7 @@
 	"nama" : "Angga Nur Prasetya",
 	"short_desc" : "Hey, I'm Angga Nur Prasetya",
 	"bio" : "Mobile & Web Developer",
-	"description" : "I am a man who has an interest in programming.  My specialization includes quickly learning new skills and programming languages, problem solving, framework and design patterns.  so far the skills that I already have include java, kotlin, flutter, php, python, js node, git, html5, css3, javascript, sql, sql server, postgresql, mysql, mongodb, bootstrap.  I started studying js and flask.  I am still enthusiastic about reaching a new programming language, framework, design pattern, and everything about programming",
+	"description" : "I am a man who has an interest in programming.  My specialization includes quickly learning new skills and programming languages, problem solving, framework and design patterns.  so far the skills that I already have include Flutter, Javascript, Nuxt JS, Laravel, PHP, Postgresql, MySql, React Native.  I started studying Golang and React JS.  I am still enthusiastic about reaching a new programming language, framework, design pattern, and everything about programming",
 	"avatar_url" : "https://avatars3.githubusercontent.com/u/35420062?v=4",
 	"url_cv" : "https://prasetyanurangga.github.io/data/Resume.pdf",
 	"url_github" : "https://github.com/prasetyanurangga",
@@ -19,6 +19,6 @@
 	"email" : "angganurprasetya4@gmail.com",
 	"open_opportunity" : true,
 	"address":"Central Java, Indonesia",
-	"phone" : "+6285702802582",
-	"message_opportunity" : "#OpenToWork\n Hi, My name is Angga, I'm looking for a job with the role of an android developer or mobile developer"
+	"phone" : "+6285702802582 (Whatsapp/Phone)",
+	"message_opportunity" : "#OpenToWork\n Hi, My name is Angga, I'm looking for a job with the role of an web developer or mobile developer"
 }

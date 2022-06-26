@@ -28,12 +28,13 @@ var detail = new Vue({
       type = this.$route.query.type
       if(type == "portofolio"){
         first_response.data.forEach(function(repos) {
+          console.log(repos);
           if(repos.name == parameters){
             local_repos = repos;
           }
         });
 
-        console.log(local_repos);
+        console.log(parameters);
 
         var date = moment();
         var dateComponent = date.utc().format('YYYY-MM-DD HH:mm:ss');

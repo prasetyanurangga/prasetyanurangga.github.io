@@ -26,12 +26,11 @@ var detail = new Vue({
 
       parameters = this.$route.query.name
       third_response.data.forEach(function(repos) {
-        if(repos.name_git == parameters){
+        if(repos.name == parameters){
           local_repos = repos;
         }
       });
-      var str = first_response.data.updated_at;
-      var date = moment(str);
+      var date = moment();
       var dateComponent = date.utc().format('YYYY-MM-DD HH:mm:ss');
       console.log(dateComponent);
       first_response.data['updated_at'] = dateComponent;
@@ -46,7 +45,7 @@ var detail = new Vue({
   methods:{
     request_1() {
      parameters = this.$route.query.name
-     return axios.get('https://api.github.com/repos/prasetyanurangga/'+parameters)
+     return axios.get('https://prasetyanurangga.github.io/data/portfolio.json')
     },
     request_2() {
      return axios.get('https://prasetyanurangga.github.io/data/profile.json')

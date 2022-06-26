@@ -20,10 +20,11 @@
 			"color" : "#F18E33",
 			"value" : "20"
 		}],
-		"link" : "sikebal.com",
+		"html_url" : "sikebal.com",
 		"photo" : [
 			"https://prasetyanurangga.github.io/assets/img/sikebal.png"
-		]
+		],
+		"description" : ""
 	}
 
 ]

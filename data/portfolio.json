@@ -26,6 +26,34 @@
 			"https://prasetyanurangga.github.io/assets/img/sikebal_1.png"
 		],
 		"description" : ""
+	},
+	{
+		"name" : "Web Profil Kemendesa",
+		"client" : "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+		"type" : "portfolio",
+		"language" : [{
+			"name" : "PHP (Laravel)",
+			"color" : "#F18E33",
+			"value" : "50"
+		},{
+			"name" : "HTML",
+			"color" : "#F18E33",
+			"value" : "20"
+		},{
+			"name" : "CSS",
+			"color" : "#F18E33",
+			"value" : "10"
+		},{
+			"name" : "JS",
+			"color" : "#F18E33",
+			"value" : "20"
+		}],
+		"html_url" : "sikebal.com",
+		"photo" : [
+			"https://prasetyanurangga.github.io/assets/img/kemendesa.png",
+			"https://prasetyanurangga.github.io/assets/img/kemendesa_1.png"
+		],
+		"description" : ""
 	}
 
 ]

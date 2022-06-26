@@ -30,7 +30,7 @@ var main = new Vue({
      return axios.get('https://prasetyanurangga.github.io/data/profile.json')
     },
     request_3() {
-     return axios.get('https://prasetyanurangga.github.io/data/portflio.json')
+     return axios.get('https://prasetyanurangga.github.io/data/portfolio.json')
     },
     callIsotope() {
       var $container = $('#portfolio-grid').isotope({

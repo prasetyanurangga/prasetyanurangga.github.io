@@ -33,6 +33,8 @@ var detail = new Vue({
           }
         });
 
+        console.log(local_repos);
+
         var date = moment();
         var dateComponent = date.utc().format('YYYY-MM-DD HH:mm:ss');
         first_response.data['updated_at'] = dateComponent;

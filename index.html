@@ -136,6 +136,30 @@
         </div>
       </section><!-- End  Works Section -->
 
+      <section class="section site-portfolio" id="portfolio-profesional">
+        <div class="container">
+          <div class="row mb-5 align-items-center">
+            <div class="col-md-12 col-lg-6 mb-4 mb-lg-0" data-aos="fade-up">
+              <h2>Project</h2>
+              <p class="mb-0">some open projects that I have made</p>
+            </div>
+          </div>
+          <div id="portfolio-profesional-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
+            
+            <div class="item col-sm-6 col-md-4 col-lg-4 mb-4" v-for="repos in portfolio" :class="repos.type" >
+             <a v-bind:href="'detail-project.html?name='+ repos.name_git" class="item-wrap fancybox">
+                <div class="work-info">
+                  <h3>{{ repos.name }}</h3>
+                  <span>{{ repos.client }}</span>
+                </div>
+                <img class="img-fluid" v-bind:src="repos.thumb_photo">
+              </a>
+            </div>
+          </div>
+          <div style="display: flex"><a v-bind:href="user.url_github" data-aos="fade-up" class="readmore" style="margin: auto" target="_blank">Show More</a></div>
+        </div>
+      </section><!-- End  Works Section -->
+
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->

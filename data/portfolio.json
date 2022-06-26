@@ -1,0 +1,27 @@
+[
+	{
+		"name" : "SiKebal",
+		"client" : "Dinas Kesehatan Kab. Banjarnegara, Jawa Tengah",
+		"type" : "portfolio",
+		"language" : [{
+			"name" : "PHP",
+			"color" : "#F18E33",
+			"value" : "50"
+		},{
+			"name" : "HTML",
+			"color" : "#F18E33",
+			"value" : "20"
+		},{
+			"name" : "CSS",
+			"color" : "#F18E33",
+			"value" : "10"
+		},{
+			"name" : "JS",
+			"color" : "#F18E33",
+			"value" : "20"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/sikebal.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/sikebal.png"
+	}
+
+]

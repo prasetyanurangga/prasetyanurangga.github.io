@@ -5,6 +5,7 @@ var main = new Vue({
     return {
       user: [],
       info: [],
+      portfolio: [],
       visible : false
     }
   },
@@ -12,10 +13,12 @@ var main = new Vue({
     axios.all([
         this.request_1(), //or direct the axios request
         this.request_2(),
+        this.request_3(),
       ])
-    .then(axios.spread((first_response, second_response) => {
+    .then(axios.spread((first_response, second_response, third_response) => {
           this.info= first_response.data;
-          this.user =  second_response.data
+          this.user =  second_response.data;
+          this.portfolio =  third_response.data;
           this.callIsotope();
     }))
   },
@@ -25,6 +28,9 @@ var main = new Vue({
     },
     request_2() {
      return axios.get('https://prasetyanurangga.github.io/data/profile.json')
+    },
+    request_3() {
+     return axios.get('https://prasetyanurangga.github.io/data/portflio.json')
     },
     callIsotope() {
       var $container = $('#portfolio-grid').isotope({

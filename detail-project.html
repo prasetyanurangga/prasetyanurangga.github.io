@@ -103,7 +103,7 @@
                 <p class="mb-4"><span class="text-muted">{{ (local_repos.type == 'portfolio') ? local_repos.client : local_repos.type }}</span></p>
 
                 <div class="mb-5">
-                  <p>{{ repos.description }}</p>
+                  <p>{{ (local_repos.type == 'portfolio') ? local_repos.description : repos.description }}</p>
 
                 </div>
 

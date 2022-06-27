@@ -36,6 +36,18 @@
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/hava_app_ui.png"
 	},
 	{
+		"name_git" : "hootalk",
+		"name" : "Hootalk",
+		"type" : "Mobile",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/hootalk_app_ui.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/hootalk_app_ui.png"
+	},
+	{
 		"name_git" : "qtz",
 		"name" : "QTZ",
 		"type" : "Mobile",

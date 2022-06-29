@@ -130,6 +130,18 @@
 		}],
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png",
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png"
+	},
+	{
+		"name_git" : "moodly",
+		"name" : "Moodly",
+		"type" : "Web",
+		"language" : [{
+			"name" : "Dart",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/under_development.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/under_development.png"
 	}
 
 ]

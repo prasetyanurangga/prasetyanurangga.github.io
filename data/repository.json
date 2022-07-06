@@ -131,6 +131,19 @@
 		"main_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png",
 		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/flagly.png"
 	},
+	
+	{
+		"name_git" : "search_all",
+		"name" : "Search All",
+		"type" : "Web",
+		"language" : [{
+			"name" : "JS (Next JS)",
+			"color" : "#F18E33",
+			"value" : "100"
+		}],
+		"main_photo" : "https://prasetyanurangga.github.io/assets/img/search_all.png",
+		"thumb_photo" : "https://prasetyanurangga.github.io/assets/img/search_all.png"
+	},
 	{
 		"name_git" : "moodly",
 		"name" : "Moodly",

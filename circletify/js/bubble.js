@@ -140,8 +140,8 @@ function getParameterByName(name, url = window.location.href) {
 }
 
 async function getToken(code) {
-  var clien_id = "336ea6e22aee44608bd14bf083b0aa94";
-  var clien_secret = "daa9bf5f636d4b68971bf80dced2e150";
+  var clien_id = "52e5e86411304e01adffb5bd507b30bc";
+  var clien_secret = "02067e3069494a97a972950fbab1e1a8";
   var redirect_uri = "https://prasetyanurangga.github.io/circletify/chart.html";
   try {
     const response = await fetch("https://accounts.spotify.com/api/token", {

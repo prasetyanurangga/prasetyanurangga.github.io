@@ -142,7 +142,7 @@ function getParameterByName(name, url = window.location.href) {
 async function getToken(code) {
   var clien_id = "336ea6e22aee44608bd14bf083b0aa94";
   var clien_secret = "daa9bf5f636d4b68971bf80dced2e150";
-  var redirect_uri = "http://prasetyanurangga.github.io/circletify/chart.html";
+  var redirect_uri = "https://prasetyanurangga.github.io/circletify/chart.html";
   try {
     const response = await fetch("https://accounts.spotify.com/api/token", {
       method: "POST",
